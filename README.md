@@ -14,6 +14,6 @@ This plugin was made for production servers.
 You may not modify/redistribute this plugin. 
 Copyright Ztech Network©
 
-## Commands
+### Commands
 - /register <password> ~ Allows user to register.
 - /login <password> ~ Allows user to login.
