@@ -8,7 +8,7 @@ This plugin was made for production servers.
 - Logging does not require typing in the command, user just has to type the password
 
 ### TODO
-[] MySQL Support
+- [] MySQL Support
 
 ### Copyright
 You may not modify/redistribute this plugin. 
